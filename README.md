@@ -16,7 +16,7 @@ Non-fungible tokens (NFT) are an emerging technology that has already seen a ton
 
 # Personna:
 
-The collectors, investors are different users who buy and sell the NFT's.
+The Collectors, Investors and Businesses are different users who are willing to either sell or purchase distinctive assets.
 
 # Tagline:
 
