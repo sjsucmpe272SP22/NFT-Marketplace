@@ -24,7 +24,7 @@ NFT marketplace where traders can buy and sell the NFT tokens via the usage of E
 
 
 
-# The STACK to be used:
+# The STACK used:
 
 Web Application Framework - Next.js
 
