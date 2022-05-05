@@ -141,6 +141,27 @@ Next, update the configuration at hardhat.config.js with the following:
 ![image](https://user-images.githubusercontent.com/99928364/167019497-f645d3bb-8bc9-4657-9708-18a30e40a510.png)
 
 
+# Running the project
+
+Open your terminal and run the following command:
+
+![image](https://user-images.githubusercontent.com/99928364/167020384-f4c6b631-3c23-40a7-8d25-b67d77ac57de.png)
+
+This should create a local network with 20 accounts.
+
+![image](https://user-images.githubusercontent.com/99928364/167020456-ec0bacd3-3b10-45f6-a081-312594506a48.png)
+
+Next, keep the node running and open a separate terminal window to deploy the contract.
+
+In a separate window, run the following command:
+
+![image](https://user-images.githubusercontent.com/99928364/167020527-347ca637-c94b-4c8c-931a-a17201f84f01.png)
+
+When the deployment is complete, the CLI should print out the address of the contract that was deployed:
+
+![image](https://user-images.githubusercontent.com/99928364/167020596-9a6b7b75-e893-4ce1-8a62-ab0e93c7debd.png)
+
+
 
 
 
