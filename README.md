@@ -162,6 +162,35 @@ When the deployment is complete, the CLI should print out the address of the con
 ![image](https://user-images.githubusercontent.com/99928364/167020596-9a6b7b75-e893-4ce1-8a62-ab0e93c7debd.png)
 
 
+# Importing accounts into MetaMask
+
+You can import the accounts created by the node into your Metamask wallet to try out in the app.
+
+Each of these accounts is seeded with 10000 ETH.
+
+To import one of these accounts, first switch your MetaMask wallet network to Localhost 8545.
+
+![image](https://user-images.githubusercontent.com/99928364/167020856-5fbb7813-1684-488b-a764-8b4f4e9b3f0b.png)
+
+Next, in MetaMask click on Import Account from the accounts menu:
+
+![image](https://user-images.githubusercontent.com/99928364/167020960-5f445a9d-5695-4dae-b207-5b82428ef5d2.png)
+
+Copy then paste one of the Private Keys logged out by the CLI and click Import. Once the account is imported, you should see some the Eth in the account:
+
+![image](https://user-images.githubusercontent.com/99928364/167021055-375d0b61-be42-43f0-9b26-b22094d37b47.png)
+
+
+# Running the app
+
+Now we can test out the app!
+
+To start the app, run the following command in your CLI:
+
+![image](https://user-images.githubusercontent.com/99928364/167021159-175d0604-c25c-4c81-8333-5491435d7461.png)
+
+To test everything out, try listing an item for sale, then switching to another account and purchasing it.
+
 
 
 
