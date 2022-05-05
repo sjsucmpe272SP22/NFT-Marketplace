@@ -93,3 +93,55 @@ Their has been an huge and a sudden rise in Instagram or Twitter
 -Investment Opportunities
 
 -Likeability
+
+
+# Project setup
+
+To get started, we'll create a new Next.js app. To do so, open your terminal. Create or change into a new empty directory and run the following command.
+
+![image](https://user-images.githubusercontent.com/99928364/167018614-639e902f-d975-4c12-b14b-edf099f3f833.png)
+
+
+Next, change into the new directory and install the dependencies using a package manager like npm, yarn, or pnpm:
+
+![image](https://user-images.githubusercontent.com/99928364/167018744-217093ac-8e55-4f8e-9a99-cf16f46436ce.png)
+
+
+**Setting up Tailwind CSS**
+
+![image](https://user-images.githubusercontent.com/99928364/167018984-196df45e-6c1b-4c2a-a6f1-329562ed4808.png)
+
+Next, we will create the configuration files needed for Tailwind to work with Next.js (tailwind.config.js and postcss.config.js) by running the following command:
+
+![image](https://user-images.githubusercontent.com/99928364/167019117-c25453e2-84f4-415b-966e-35548283c0da.png)
+
+Next, configure your template content paths in tailwind.config.js:
+
+![image](https://user-images.githubusercontent.com/99928364/167019224-0ff51b1a-f01e-4f7f-a14e-09e2c43c5063.png)
+
+
+**Configuring Hardhat**
+
+Next, initialize a new Hardhat development environment from the root of your project:
+
+![image](https://user-images.githubusercontent.com/99928364/167019311-be9456d4-e07b-447f-b1ab-d375aef857b3.png)
+
+Now you should see the following files and folders created for you in your root directory:
+
+hardhat.config.js - The entirety of your Hardhat setup (i.e. your config, plugins, and custom tasks) is contained in this file.
+
+scripts - A folder containing a script named sample-script.js that will deploy your smart contract when executed
+
+test - A folder containing an example testing script
+
+contracts - A folder holding an example Solidity smart contract
+
+Next, update the configuration at hardhat.config.js with the following:
+
+![image](https://user-images.githubusercontent.com/99928364/167019497-f645d3bb-8bc9-4657-9708-18a30e40a510.png)
+
+
+
+
+
+
