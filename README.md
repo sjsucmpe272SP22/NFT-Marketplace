@@ -14,6 +14,10 @@
 
 Non-fungible tokens (NFT) are an emerging technology that has already seen a ton of use cases outside the typical NFT application – which right now is mostly for trading artworks and game characters. At its core, an NFT is a tool that creates non-fungible digital assets using blockchain. There are two major benefits that can be gained from these features. Primarily, NFT offers the certification of ownership. With blockchain-based NFT, the record of ownership is protected from changes or modification. This makes a digital asset to only have one official owner at a time. Subsequently, consumers do not have to worry about the risk of counterfeiting.
 
+# Project Report
+https://github.com/sjsucmpe272SP22/NFT-Marketplace/blob/main/IEEE%20Project%20Report/ProjectReport_CMPE272_Spring2022_Team13.pdf
+
+
 # Personna:
 
 The Collectors, Investors and Businesses are different users who are willing to either sell or purchase distinctive assets.
