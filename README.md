@@ -58,6 +58,12 @@ The marketplace owner will be able to set a listing fee. This fee will be taken 
 
 
 
+# Architecture
+
+![image](https://user-images.githubusercontent.com/99928364/168698253-4fbff273-a100-4e82-a31a-4414570382c2.png)
+
+
+
 # The problems solved by NFT marketplace:
 
 Duplicate Asset Problem: Due to non fungibility of NFT's duplication of assets is not possible.
@@ -97,6 +103,12 @@ Their has been an huge and a sudden rise in Instagram or Twitter
 -Investment Opportunities
 
 -Likeability
+
+
+# NFT Marketplace
+
+![image](https://user-images.githubusercontent.com/99928364/168698028-631c1a6f-2489-46cf-9995-2815cb458b8f.png)
+
 
 
 # Project setup
