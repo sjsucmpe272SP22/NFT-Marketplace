@@ -1,5 +1,13 @@
 # NFT marketplace Application using Next.js
 
+# Team Members
+
+1. Prerna Garsole
+2. Chaitanya Deepthi Kaki
+3. Gayatri Yadkikar
+4. Sumit Dutta
+
+
 # Introduction to the problem statement:
 
 ● NFT will continue to gain prominence in 2022 and is growing as a new asset class in the crypto space. There should be an efficient exchange medium for NFTs.
